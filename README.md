@@ -34,10 +34,6 @@
     <div id="result"></div>
   </section>
 
-  <!-- Footer -->
-  <footer>
-    <p>&copy; 2025 Anindiya Putri | Pendidikan Teknologi Informasi</p>
-  </footer>
 
 </body>
 </html>

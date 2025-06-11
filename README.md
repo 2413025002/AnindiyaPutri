@@ -166,6 +166,29 @@
                 <a href="https://drive.google.com/file/d/1egCj7OBKCiwcQm0s96H8_0AJVTl1oFLo/view?usp=drive_link">Kode</a>
                 <a href="https://drive.google.com/file/d/1Wf0SRzF0sZGThe8F0AHDq0rG-tTvh8Hn/view?usp=drivesdk">Video</a>
             </p>
+
+             <p><strong>Kuis 1|Persamaan Misteri</strong><br>
+                <a href="https://drive.google.com/file/d/1BY1L7db0cqPn_kQvJ5ZBN230nO_JHMZX/view?usp=drive_link">Hasil</a>
+                <a href="https://drive.google.com/file/d/1v0LbTbs0ihxSb4_PiWU51l_eDT9K0Yii/view?usp=drive_link">Kode</a>
+            </p>
+
+            <p><strong>Kuis 2|Transformasi 2D</strong><br>
+                <a href="https://drive.google.com/file/d/1whjT4LbZU3HNy7Pv5K6WEMmrkzJO1AuP/view?usp=drive_link">Hasil</a>
+                <a href="https://docs.google.com/spreadsheets/d/1hvC22WhFVe8DFzXqqwE_QUBpftsA_jWvCE0OL6or308/edit?usp=drive_link">Spreadsheet</a>
+                <a href="https://docs.google.com/spreadsheets/d/1sXBP__pTKPmCKiFMGi2DFByPWiia9hDsY8yop7iwg8U/edit?usp=drive_link">Spreadsheet</a>
+                <a href="https://drive.google.com/file/d/1uws-8LYI2SKlE5lOQHq-RnYR_lODqku8/view?usp=drive_link">Video</a>
+            </p> 
+
+            <p><strong>Kuis 3|Clipping Algorithm</strong><br>
+                <a href="https://drive.google.com/file/d/16EN--xcrmewxONoDgHCJVjkaNhU3soIl/view?usp=drive_link">Hasil</a>
+                <a href="https://docs.google.com/spreadsheets/d/1dtt2AAo_NwlfxnZC3KFtY3ti9IyvIKodWLJg5-rh9Bg/edit?usp=drive_link">Spreadsheet</a>
+                <a href="https://drive.google.com/file/d/1IpvQtQlNkCEuzpVNCxntyOFTPaCKaIZg/view?usp=drive_link">Video</a>
+            </p> 
+
+            
+            <p><strong>Kuis 4|Polygon Clipping Algorithm</strong><br>
+                <a href="https://drive.google.com/file/d/1WqVRx6SqW6yKT4x7zcAIUL8BUfggPV6V/view?usp=drive_link">Video</a>
+            </p> 
         </section>
     </main>
 
